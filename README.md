@@ -1,4 +1,5 @@
-## 프론트엔드 개발자 주대선입니다. 👨‍💻
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=35&pause=1000&color=337EB4&center=true&vCenter=true&width=435&height=165&lines=Hi+there%2C+I'm+Daesun.)](https://git.io/typing-svg)
 
-### Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-292B2E?style=flat-square&logo=React&logoColor=00CCFF"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+</div>
